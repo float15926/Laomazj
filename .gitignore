@@ -1,0 +1,7 @@
+build/*
+
+Pods/*
+Laomazj/Libraries/*
+Screeshots/*
+.DS_Store
+xcuserdata
