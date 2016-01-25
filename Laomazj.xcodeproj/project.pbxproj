@@ -27,6 +27,7 @@
 		275C426B1C5238C40089FFC2 /* LoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 275C42681C5238C40089FFC2 /* LoginViewController.m */; };
 		275C426C1C5238C40089FFC2 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 275C426A1C5238C40089FFC2 /* MainViewController.m */; };
 		275C426E1C52393E0089FFC2 /* LoginViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 275C426D1C52393E0089FFC2 /* LoginViewController.xib */; };
+		275C42741C5603E80089FFC2 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 275C42731C5603E80089FFC2 /* Localizable.strings */; };
 		277141831C5085F400A0D979 /* libEaseMobClientSDK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 2771417F1C5085F400A0D979 /* libEaseMobClientSDK.a */; };
 		277141851C5085F400A0D979 /* EaseMob.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 277141821C5085F400A0D979 /* EaseMob.bundle */; };
 		277142231C50860F00A0D979 /* EMAudioPlayerUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 2771418D1C50860F00A0D979 /* EMAudioPlayerUtil.m */; };
@@ -453,6 +454,7 @@
 		275C42691C5238C40089FFC2 /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
 		275C426A1C5238C40089FFC2 /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
 		275C426D1C52393E0089FFC2 /* LoginViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LoginViewController.xib; sourceTree = "<group>"; };
+		275C42731C5603E80089FFC2 /* Localizable.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
 		2771411C1C5085F400A0D979 /* EMCallManagerCallDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EMCallManagerCallDelegate.h; sourceTree = "<group>"; };
 		2771411D1C5085F400A0D979 /* EMCallManagerDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EMCallManagerDelegate.h; sourceTree = "<group>"; };
 		2771411E1C5085F400A0D979 /* EaseMob+CallService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "EaseMob+CallService.h"; sourceTree = "<group>"; };
@@ -2472,6 +2474,7 @@
 			children = (
 				277142641C50863700A0D979 /* ChatUIDefine.h */,
 				7B2F319118A011A0008CD0DA /* Laomazj-Info.plist */,
+				275C42731C5603E80089FFC2 /* Localizable.strings */,
 				7B2F319218A011A0008CD0DA /* InfoPlist.strings */,
 				7B2F319518A011A0008CD0DA /* main.m */,
 				7B2F319718A011A0008CD0DA /* Laomazj-Prefix.pch */,
@@ -2940,6 +2943,7 @@
 				277142551C50860F00A0D979 /* MWPhotoBrowser.bundle in Resources */,
 				2771445D1C5086F100A0D979 /* VoiceSearchFeedback015.png in Resources */,
 				2771443F1C5086F100A0D979 /* chatFire_audioPlaying3.png in Resources */,
+				275C42741C5603E80089FFC2 /* Localizable.strings in Resources */,
 				277144351C5086F100A0D979 /* 58.png in Resources */,
 				277141851C5085F400A0D979 /* EaseMob.bundle in Resources */,
 				2771443C1C5086F100A0D979 /* chatFire_audioPlaying1@2x.png in Resources */,
